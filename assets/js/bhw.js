@@ -1,8 +1,9 @@
 $(document).ready(function(){
 
 
-	$('.carousel').carousel({
-	  interval: 2000
+	$('#main-slider').carousel({
+        pause: true,
+        interval: false,
 	})
 
 
@@ -55,6 +56,7 @@ $(document).ready(function(){
     
     $('.header-main').wrapAll('<div class="cover">');
     $('.cover').css('height', $('.header-main').outerHeight());
+    $('.cover').css('max-height', '90px');
     
 });
 

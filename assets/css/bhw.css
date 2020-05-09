@@ -27,10 +27,34 @@ img {
     max-width: 100%;
 }
 
+h2, h3, h4 {
+    font-weight: 400;
+    font-family: 'Bebas Neue', cursive;
+}
+
 h2 {
     font-size: 2.2rem;
-    font-weight: 700;
-    font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+.white,
+.gray {
+    padding: 50px 0;
+}
+
+.white {
+    background: #ffffff;
+}
+
+.gray {
+    background: #f5f5f5;
 }
 
 /*For Sticky Menu*/
@@ -83,6 +107,18 @@ h2 {
     color: #fff;
     padding: 10px 10px;
     line-height: 45px;
+}
+
+
+
+
+
+
+
+
+.header-main.sticky {
+    background: #fff;
+    box-shadow: inset 0px -1px 0px 0px #ddd;
 }
 
 
@@ -143,7 +179,7 @@ ul.second-dropped-menu {
     top: 100%;
     left: 0;
     display: none;
-    z-index: 9;
+    z-index: 99;
     /*padding: 10px 0px 15px;*/
     background: #fff;
     min-width: 150px;
@@ -233,6 +269,109 @@ ul.first-dropped-menu.last-dropdown {
     width: 80px;
 }
 
+a.search-icon i.fa {
+    color: #ddd;
+}
 
 
 /*Header end*/
+
+
+
+
+
+/*Slider Start here*/
+
+section#Slider {
+    position: relative;
+}
+
+section#Slider,
+section#Slider .carousel-inner,
+section#Slider .carousel-inner .carousel-item {
+    max-height: calc( 100vh - 135px ) !important;
+    overflow: hidden;
+}
+
+section#Slider .carousel-caption {
+    text-align: left;
+    left: 9% !important;
+    margin-bottom: 30px;
+}
+
+section#Slider .carousel-caption h2,
+section#Slider .carousel-caption p {
+    color: #fff;
+}
+
+section#Slider .carousel-caption h2 {
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+
+section#Slider .carousel-caption p {
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+section#Slider a.carousel-control-next,
+section#Slider a.carousel-control-prev {
+    z-index: 99;
+    width: 8%;
+}
+
+a.carousel-control-prev {
+    background: linear-gradient(to right, rgba(51, 51, 51, 0.5) 15%, transparent 100%);
+}
+
+a.carousel-control-next {
+    background: linear-gradient(to right, transparent 15%, rgba(51, 51, 51, 0.5) 100% );
+}
+
+a.next-section-btn {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    color: #fff;
+    font-size: 25px;
+    transform: translateX(-50%);
+    display: block;
+    z-index: 9;
+}
+
+section#Slider .carousel-inner .carousel-item {
+    position: relative;
+}
+
+section#Slider .carousel-inner .carousel-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    z-index: 9;
+}
+
+/*Slider End Here*/
+
+
+
+/*Intro Text Start here*/
+section#Intro {
+    min-height: calc( 100vh - 90px);
+}
+
+section#Intro .intro-text {
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.intro-text p {
+    font-size: 14pt;
+}
+/*Intro Text End here*/
