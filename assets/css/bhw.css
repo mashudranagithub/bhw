@@ -564,6 +564,7 @@ section#Link-banner {
 .single-event-info p.time-venue {
     overflow: hidden;
     margin-bottom: 15px;
+    padding-left: 1px;
 }
 
 
@@ -605,3 +606,93 @@ section#Events a.view-all {
 
 
 /*Events End Here*/
+
+
+
+
+/*blogs Start here*/
+
+.single-blog-image {
+    position: relative;
+}
+
+.single-blog-image .date {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    background: #b1b1b1;
+    font-size: 1.1rem;
+    color: #fff;
+    font-family: 'Bebas Neue', cursive;
+    min-width: 50px;
+    width: auto;
+    height: 50px;
+    padding-left: 10px;
+    letter-spacing: 1px;
+}
+
+.single-blog {
+    background: #f6f6f6;
+}
+
+.single-blog-info {
+    padding: 20px;
+}
+
+.single-blog:hover .date,
+.single-blog:hover .single-blog-info {
+    background: #f79420;
+}
+
+
+.single-blog-info p {
+    color: #b1b1b1;
+}
+
+.single-blog-info h3 a {
+    color: #000;
+    text-decoration: none;
+}
+
+.single-blog:hover .single-blog-info p,
+.single-blog:hover .single-blog-info a.know-more,
+.single-blog:hover .single-blog-info h3 a {
+    color: #fff;
+}
+
+section#Blogs .section-heading {
+    margin-bottom: 30px;
+}
+
+section#Blogs .view-all {
+    margin-top: 40px;
+    display: inline-block;
+}
+
+.single-blog-info .know-more {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+p.blog-meta {
+    margin-bottom: 10px;
+}
+
+span.total-comments {
+    position: relative;
+}
+
+span.total-comments::before {
+    content: '\f27b';
+    position: absolute;
+    top: -2px;
+    left: -20px;
+    font-family: fontAwesome;
+}
+
+p.blog-meta span.author a {
+    color: #000 !important;
+}
+
+/*blogs End Here*/
