@@ -94,7 +94,7 @@ button:focus-within {
 
 a.view-all {
     border: 1px solid #105caa;
-    padding: 10px 20px;
+    padding: 8px 25px;
     border-radius: 4px;
     text-decoration: none;
     font-size: 1.2rem;
@@ -106,6 +106,21 @@ a.view-all {
 a.view-all:hover {
     background: #105caa;
     color: #fff;
+}
+
+a.know-more {
+    position: relative;
+    padding-right: 5px;
+    color: #818181;
+    text-decoration: none;
+}
+
+a.know-more::after {
+    content: '\f105 ';
+    position: absolute;
+    top: 0;
+    right: -10px;
+    font-family: fontAwesome;
 }
 
 
@@ -445,6 +460,7 @@ section#Intro .intro-text {
 }
 
 .full-box:hover .info-box h3 a,
+.full-box:hover .info-box a,
 .full-box:hover .info-box p {
     color: #fff;
     text-decoration: none;
@@ -459,6 +475,13 @@ section#Intro .intro-text {
 .single-work:hover .single-work-info.info-box p.info-update-date  {
     border-top: 2px solid #fff;
 }
+
+
+.info-box p {
+    color: #b1b1b1;
+}
+
+
 
 .owl-carousel.work-slider .owl-dots {
     text-align: center;
@@ -528,3 +551,57 @@ section#Link-banner {
     background: #f79420;
 }
 /*banner Link end here*/
+
+
+
+
+/*Events Start Here*/
+
+.single-event-info p.event-date {
+    margin-bottom: 8px;
+}
+
+.single-event-info p.time-venue {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+
+span.event-time,
+span.event-venue {
+    position: relative;
+    padding-left: 15px;
+    font-size: 13px;
+}
+
+span.event-time::before,
+span.event-venue::before {
+    font-family: fontAwesome;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+span.event-time::before {
+    content: '\f017 ';
+}
+
+span.event-venue::before {
+    content: '\f041';
+}
+
+p.event-info {
+    margin-bottom: 20px;
+}
+
+section#Events .section-heading {
+    margin-bottom: 40px;
+}
+
+section#Events a.view-all {
+    margin-top: 40px;
+    display: inline-block;
+}
+
+
+/*Events End Here*/
