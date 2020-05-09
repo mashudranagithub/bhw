@@ -15,7 +15,7 @@ $(document).ready(function(){
         // items:3,
         merge:true,
         loop:true,
-        autoplay:true,
+        autoplay:false,
         autoplaySpeed:2000,
         autoplayTimeout:10000,
         smartSpeed:500,
