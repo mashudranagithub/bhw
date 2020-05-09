@@ -7,10 +7,11 @@ font-family: 'Roboto', sans-serif;*/
 }
 p {
     margin: 0;
+    font-family: 'Roboto', sans-serif; 
 }
 
 body {
-   font-family: 'Roboto', sans-serif; 
+
 }
 
 ul {
@@ -37,11 +38,11 @@ h2 {
 }
 
 h3 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
 }
 
 h4 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 
 .white,
@@ -54,7 +55,7 @@ h4 {
 }
 
 .gray {
-    background: #f5f5f5;
+    background: #f6f6f6;
 }
 
 /*For Sticky Menu*/
@@ -164,7 +165,7 @@ li.first-drop-menu>a::after {
 
 .main-menu nav li a:hover,
 li.first-drop-menu>a:hover::after  {
-    color: #da6727;
+    color: #f79420;
 }
 
 /*Dropdown Menu*/
@@ -207,12 +208,12 @@ ul.second-dropped-menu li:hover {
 }
 
 ul.topbar-menu li.first-drop-menu ul.first-dropped-menu li:hover a {
-    color: #da6727;
+    color: #f79420;
 }
 
 ul.first-dropped-menu li a:hover,
 ul.second-dropped-menu li a:hover {
-    color: #da6727 !important;
+    color: #f79420 !important;
 }
 
 .topbar-menu li.first-drop-menu::after{
@@ -375,3 +376,57 @@ section#Intro .intro-text {
     font-size: 14pt;
 }
 /*Intro Text End here*/
+
+
+
+/*Work Slider Start Here*/
+
+.section-heading p {
+    color: #818181;
+    font-size: 1.2rem;
+}
+
+.owl-carousel.work-slider {
+    padding: 40px 0;
+}
+
+.full-box {
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.full-box .info-box {
+    background: #fff;
+    margin-top: -20px;
+    position: relative;
+    margin: -20px 15px;
+    padding: 15px;
+}
+
+.full-box .info-box h3 a {
+    color: #000;
+}
+
+.full-box .info-box p {
+    font-size: 0.9rem;
+}
+
+.full-box:hover .info-box {
+    background: #f79420;
+}
+
+.full-box:hover .info-box h3 a,
+.full-box:hover .info-box p {
+    color: #fff;
+}
+
+.single-work-info.info-box p {
+    border-bottom: 2px solid #e3e3e3;
+}
+
+.single-work:hover .single-work-info.info-box p {
+    border-bottom: 2px solid #fff;
+}
+
+/*Work Slider End Here*/

@@ -4,7 +4,7 @@ $(document).ready(function(){
 	$('#main-slider').carousel({
         pause: true,
         interval: false,
-	})
+	});
 
 
 
@@ -41,7 +41,7 @@ $(document).ready(function(){
 
     //Code for sticky menu
 
-$(document).ready(function(){
+
     var x = $('.header-main').offset().top; 
     
     $(window).scroll(function(){
@@ -58,7 +58,7 @@ $(document).ready(function(){
     $('.cover').css('height', $('.header-main').outerHeight());
     $('.cover').css('max-height', '90px');
     
-});
+
 
 
 //jQuery Code for back to top
