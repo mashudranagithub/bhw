@@ -736,3 +736,124 @@ a.btn-subscribe:hover {
     background: #f6f6f6;
 }
 /*Subscription section end here*/
+
+
+
+
+
+/*Footer Start Here*/
+.footer-top {
+    background: #212121;
+    padding: 50px 0 30px;
+}
+
+.footer-top h3 {
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.footer-top p {
+    color: #9c9c9c;
+    margin-bottom: 15px;
+}
+
+.footer-column p a {
+    color: #9c9c9c;
+    text-decoration: none;
+}
+
+.footer-column p a:hover {
+    color: #f79420;
+}
+
+.footer-column span.tweet-time {
+    position: relative;
+    padding-left: 20px;
+}
+
+.footer-column span.tweet-time::before {
+    position: absolute;
+    content: '\f099';
+    font-family: fontAwesome;
+    top: -2px;
+    left: 0;
+}
+
+.footer-column a.view-all:hover {
+    padding: 5px !important;
+}
+
+.footer-top a.view-all {
+    padding: 5px 15px;
+    font-size: 14px;
+}
+
+ul.footer-social-menu li a {
+    width: 30px;
+    height: 30px;
+    background: #5c5c5c;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    color: #8e8e8e;
+}
+
+ul.footer-social-menu li:hover a {
+    background: #105caa;
+    color: #fff;
+}
+
+ul.footer-social-menu li {
+    margin-right: 5px;
+}
+
+ul.footer-social-menu {
+    margin-top: 30px;
+}
+
+
+
+
+
+.footer-bottom {
+    background: #171717;
+}
+
+ul.footer-menu {
+    text-align: right;
+}
+
+
+.footer-gallery {
+    margin-bottom: 30px;
+}
+
+.footer-gallery a {
+    width: 21%;
+    display: inline-block;
+    margin-right: 2%;
+}
+
+p.copyright-text {
+    line-height: 50px;
+    color: #9c9c9c;
+}
+
+ul.footer-menu li a {
+    color: #9c9c9c;
+    line-height: 50px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+ul.footer-menu li {
+    margin-left: 5px;
+}
+
+ul.footer-menu li:hover a {
+    color: #fff;
+}
+
+/*Footer End Here*/

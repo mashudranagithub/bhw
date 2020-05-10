@@ -88,6 +88,18 @@ $('#top').click(function(){
 
 
 
+var gallery = $('.gallery a').simpleLightbox({
+
+    /* options */
+
+});
+
+
+
+
+
+
+
 
 
 
