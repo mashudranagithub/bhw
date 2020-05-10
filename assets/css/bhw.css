@@ -696,3 +696,43 @@ p.blog-meta span.author a {
 }
 
 /*blogs End Here*/
+
+
+/*Subscription section start here*/
+
+section#Subscribtion {
+    min-height: 120px;
+    background: #105caa;
+    display: flex;
+    align-items: center;
+}
+
+section#Subscribtion h2 {
+    margin: 0;
+    color: #fff;
+    margin-bottom: -8px;
+    font-size: 3rem;
+    letter-spacing: 1px;
+}
+
+
+form.subscription-form input {
+    display: none;
+}
+
+a.btn-subscribe {
+    background: #fff;
+    color: #000;
+    font-size: 25px;
+    padding: 5px 50px;
+    border-radius: 4px;
+    text-transform: capitalize;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a.btn-subscribe:hover {
+    color: #105caa;
+    background: #f6f6f6;
+}
+/*Subscription section end here*/
