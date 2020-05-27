@@ -557,6 +557,22 @@ section#Link-banner {
 
 /*Events Start Here*/
 
+.single-event-image.image-box {
+    position: relative;
+}
+
+.single-event-image.image-box span.status {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    background: #ff9706;
+    padding: 5px;
+    text-transform: capitalize;
+}
+
 .single-event-info p.event-date {
     margin-bottom: 8px;
 }
@@ -857,3 +873,48 @@ ul.footer-menu li:hover a {
 }
 
 /*Footer End Here*/
+
+
+
+
+
+
+/*****************************************************************
+******************************************************************
+                        Who We are pages
+******************************************************************
+/*****************************************************************/
+
+section#blank-page {
+    background: #f6f6f6;
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Background Page*/
+
+section#Background {
+    padding: 50px 0;
+    overflow: hidden;
+}
+
+section#Vision-mission,
+section#Page-links {
+    padding-bottom: 50px;
+}
+
+.single-page-link {
+    position: relative;
+}
+
+.single-page-link h3 {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+}
