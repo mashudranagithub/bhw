@@ -568,9 +568,13 @@ section#Link-banner {
     color: #fff;
     font-size: 16px;
     font-weight: 700;
-    background: #ff9706;
-    padding: 5px;
+    background: #b1b1b1;
+    padding: 5px 10px;
     text-transform: capitalize;
+}
+
+.single-event:hover .single-event-image.image-box span.status {
+    background: #ff9706;
 }
 
 .single-event-info p.event-date {
@@ -918,3 +922,145 @@ section#Page-links {
     letter-spacing: 1px;
     margin-bottom: 0px;
 }
+
+
+
+
+/*Who we are page start here*/
+#Promo-banner {
+    background: url('../images/banner/promo-banner-who-we-are-page.jpg');
+    background-size: cover;
+    min-height: 450px;
+    /*padding: 50px 0;*/
+}
+
+section#Promo-banner .bhw-paragraph p {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.bhw-paragraph {
+    padding: 50px 0;
+}
+
+.bhw-paragraph p {
+    margin-bottom: 15px;
+}
+/*Who we are page end here*/
+
+
+
+
+/*Advisory Group Page Start Here*/
+
+
+
+section#Page-heading h2 {
+    margin: 0;
+    line-height: 100px;
+}
+
+section#Working-group,
+section#Advisory-group {
+    padding: 60px 0;
+}
+
+section#Working-group{
+    background: #f0f0f0;
+}
+
+section#Working-group h2{
+    color: #105caa;
+}
+
+section#Advisory-group h2 {
+    color: #f79420;
+}
+
+section#Working-group h2,
+section#Advisory-group h2 {
+    margin-bottom: 30px;
+}
+
+.group-member {
+    position: relative;
+    cursor: pointer;
+}
+
+.group-member-details {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: inherit;
+    height: 100%;
+    text-align: center;
+    background: #105caa;
+    color: #fff;
+    padding: 0 25px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+#Working-group .group-member-details {
+    background: #105caa;
+}
+
+#Advisory-group .group-member-details {
+    background: #f79420;
+}
+
+.group-member:hover .group-member-details {
+    top: 0;
+    opacity: 1;
+}
+
+.group-member-details p {
+    margin-bottom: 15px;
+}
+
+.group-member-image p {
+    padding: 5px 25px;
+    text-align: center;
+    color: #fff;
+}
+
+#Working-group .group-member-image p {
+    background: #105caa;
+}
+
+#Advisory-group .group-member-image p {
+    background: #f79420;
+}
+
+.working-group-slider .owl-nav,
+.advisory-group-slider .owl-nav {
+    position: absolute;
+    top: -60px;
+    right: 0;
+}
+
+.working-group-slider .owl-nav button span,
+.advisory-group-slider .owl-nav button span {
+    border: 1px solid #105caa !important;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 5px;
+    display: inline-block;
+    color: #105caa;
+    font-size: 30px;
+    line-height: 20px;
+}
+
+#Advisory-group a.view-all {
+    color: #f79420;
+    border: 1px solid #f79420;
+}
+
+#Advisory-group a.view-all:hover {
+    color: #fff;
+    border: 1px solid #f79420;
+    background: #f79420;
+}
+
+/*Advisory Group Page End Here*/

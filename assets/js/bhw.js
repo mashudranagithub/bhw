@@ -15,7 +15,7 @@ $(document).ready(function(){
         // items:3,
         merge:true,
         loop:true,
-        autoplay:false,
+        autoplay:true,
         autoplaySpeed:2000,
         autoplayTimeout:10000,
         smartSpeed:500,
@@ -93,6 +93,65 @@ var gallery = $('.gallery a').simpleLightbox({
     /* options */
 
 });
+
+
+
+
+
+    $('.working-group-slider').owlCarousel({
+        merge:true,
+        loop:true,
+        autoplay:true,
+        autoplaySpeed:2000,
+        autoplayTimeout:10000,
+        smartSpeed:500,
+        margin:30,
+        nav:true,
+        navDots:false,
+        lazyLoad:true,
+        center:false,
+        responsive:{
+            480:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:4
+            }
+        }
+    });
+
+
+
+
+
+    $('.advisory-group-slider').owlCarousel({
+        merge:true,
+        loop:true,
+        autoplay:true,
+        autoplaySpeed:2000,
+        autoplayTimeout:10000,
+        smartSpeed:500,
+        margin:30,
+        nav:true,
+        navDots:false,
+        // navText: ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+        lazyLoad:true,
+        center:false,
+        responsive:{
+            480:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:4
+            }
+        }
+    });
 
 
 

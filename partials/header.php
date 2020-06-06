@@ -88,11 +88,12 @@
 		                            <div class="collapse navbar-collapse" id="navbarResponsive">
 		                                <ul class="navbar-nav ml-auto">
 		                                    <li class="first-drop-menu">
-		                                        <a href="#">Who we are</a>
+		                                        <a href="who-we-are.php">Who we are</a>
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="background.php">Background</a></li>
 		                                            <li><a href="blank-page.php">Working Group</a></li>
-		                                            <li><a href="blank-page.php">Advisor Committee</a></li>
+		                                            <li><a href="advisory-comittee.php">Advisory Group</a></li>
+		                                            <li><a href="advisory-comittee.php">Themetic Group</a></li>
 		                                            <li><a href="blank-page.php">Secretariat</a></li>
 		                                        </ul>
 		                                    </li>
@@ -103,6 +104,7 @@
 		                                            <li><a href="blank-page.php">Publications</a></li>
 		                                            <li><a href="blank-page.php">Regional Chapter</a></li>
 		                                            <li><a href="blank-page.php">Short Course</a></li>
+		                                            <li><a href="blank-page.php">Policy Advocacy</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">
