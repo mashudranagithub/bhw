@@ -40,7 +40,7 @@
 							<div class="top-social-menu">
 								<ul>
 									<li>
-										<a href="javascript:void(0);">
+										<a target="_blank" href="https://www.facebook.com/Bangladesh-Health-Watch-BHW-109403770656047">
 											<i class="fa fa-facebook"></i>
 										</a>
 									</li>
