@@ -98,7 +98,7 @@ var gallery = $('.gallery a').simpleLightbox({
 
 
 
-    $('.working-group-slider').owlCarousel({
+    $('.members-slider').owlCarousel({
         merge:true,
         loop:true,
         autoplay:true,
@@ -106,8 +106,8 @@ var gallery = $('.gallery a').simpleLightbox({
         autoplayTimeout:10000,
         smartSpeed:500,
         margin:30,
-        nav:true,
-        navDots:false,
+        nav:false,
+        navDots:true,
         lazyLoad:true,
         center:false,
         responsive:{
@@ -122,42 +122,6 @@ var gallery = $('.gallery a').simpleLightbox({
             }
         }
     });
-
-
-
-
-
-    $('.advisory-group-slider').owlCarousel({
-        merge:true,
-        loop:true,
-        autoplay:true,
-        autoplaySpeed:2000,
-        autoplayTimeout:10000,
-        smartSpeed:500,
-        margin:30,
-        nav:true,
-        navDots:false,
-        // navText: ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
-        lazyLoad:true,
-        center:false,
-        responsive:{
-            480:{
-                items:1
-            },
-            600:{
-                items:1
-            },
-            1000:{
-                items:4
-            }
-        }
-    });
-
-
-
-
-
-
 
 
 

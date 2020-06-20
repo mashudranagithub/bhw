@@ -111,7 +111,7 @@
 		                                    <li class="first-drop-menu">
 		                                        <a href="#">Reports</a>
 		                                        <ul class="first-dropped-menu">
-		                                            <li><a href="blank-page.php">BHW Bulletin</a></li>
+		                                            <li><a href="bhw-bulletin.php">BHW Bulletin</a></li>
 		                                            <li><a href="blank-page.php">BHW Reports</a></li>
 		                                            <!-- <li><a href="blank-page.php">Dropdown Menu</a></li>
 		                                            <li><a href="blank-page.php">Dropdown Menu</a></li>

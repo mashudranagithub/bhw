@@ -27,7 +27,7 @@
 						<img src="assets/images/who-we-are/secretariat/yasmint.jpg" alt="Group Member Image">
 						<p class="name">Yasmin H Ahmed</p>
 					</div>
-					<a href="single-advisory-member.php" class="group-member-details-link">
+					<a href="single-secretariat-member.php" class="group-member-details-link">
 						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
@@ -38,7 +38,7 @@
 						<img src="assets/images/who-we-are/secretariat/masudul.jpg" alt="Group Member Image">
 						<p class="name">Shaikh Masudul Alam</p>
 					</div>
-					<a href="single-advisory-member.php" class="group-member-details-link">
+					<a href="single-secretariat-member.php" class="group-member-details-link">
 						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
@@ -49,7 +49,7 @@
 						<img src="assets/images/who-we-are/secretariat/mufaqqarul.jpg" alt="Group Member Image">
 						<p class="name">Md. Mofakker Morshed Khan Chowdhury</p>
 					</div>
-					<a href="single-advisory-member.php" class="group-member-details-link">
+					<a href="single-secretariat-member.php" class="group-member-details-link">
 						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
@@ -60,7 +60,7 @@
 						<img src="assets/images/who-we-are/secretariat/mahruba.jpg" alt="Group Member Image">
 						<p class="name">Mahruba Khanam</p>
 					</div>
-					<a href="single-advisory-member.php" class="group-member-details-link">
+					<a href="single-secretariat-member.php" class="group-member-details-link">
 						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>

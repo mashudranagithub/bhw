@@ -1,4 +1,4 @@
-/*font-family: 'Bebas Neue', cursive;
+font-family: 'Bebas Neue', cursive;
 font-family: 'Roboto', sans-serif;*/
 
 * {
@@ -986,7 +986,7 @@ section#Group{
     align-items: center;
 }
 
-#Group .group-member-image p.name {
+.group-member-image p.name {
     background: #105caa;
 }
 
@@ -1010,11 +1010,108 @@ a.group-member-details-link {
 }
 
 a.group-member-details-link img {
-    max-width: 30%;
+    max-width: 20%;
 }
 
 .group-member:hover a.group-member-details-link {
     opacity: 1;
 }
 
-/*Group Page/layout End Here*/
+
+
+
+/*Group Page/layout End Here
+
+
+
+/*Single Member Layout Start Here*/
+section#Single-member .row {
+    background: #f6f6f6;
+    margin: 0;
+    padding: 15px 0;
+}
+
+.single-member-image {
+    background: #fff;
+    padding: 15px;
+}
+
+.single-member-image img {
+    border-radius: 5px;
+}
+
+.single-member-details h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.single-member-details h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.single-member-details p.email {
+    font-size: 20px;
+    color: #000;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+
+
+section#Other-members {
+    margin: 50px 0;
+}
+
+.members-slider .owl-dots {
+    text-align: center;
+}
+
+.members-slider .owl-dots .owl-dot {
+    width: 15px;
+    height: 15px;
+    background: #c1c1c1;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+.members-slider .owl-dots .owl-dot.active {
+    background: #105caa;
+}
+
+/*Single Member Layout End Here*/
+
+
+/*BHW Bulletin Start Here*/
+
+section#Bulletin {
+    padding: 0 0 50px;
+}
+
+.bulletin-image {
+    position: relative;
+}
+
+.bulletin-image .name-year {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    padding: 15px 20px;
+}
+
+.single-bulletin a.btn-download {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    background: none;
+    color: #105caa;
+    border-radius: unset;
+    padding: 10px;
+}
+
+.single-bulletin:hover a.btn-download {
+    background: #f79420;
+    color: #fff;
+}
+
+/*BHW Bulletin End Here*/
