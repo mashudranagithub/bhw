@@ -972,10 +972,18 @@ section#Group{
     margin-bottom: 30px;
 }
 
+.group-member-image img {
+    height: 250px;
+    min-width: 100%;
+}
+
 .group-member-image p {
-    padding: 12px 5px;
     text-align: center;
     color: #fff;
+    min-height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #Group .group-member-image p.name {

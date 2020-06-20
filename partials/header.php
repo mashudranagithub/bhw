@@ -91,10 +91,10 @@
 		                                        <a href="who-we-are.php">Who we are</a>
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="background.php">Background</a></li>
-		                                            <li><a href="blank-page.php">Working Group</a></li>
+		                                            <li><a href="working-group.php">Working Group</a></li>
 		                                            <li><a href="advisory-comittee.php">Advisory Group</a></li>
 		                                            <li><a href="advisory-comittee.php">Themetic Group</a></li>
-		                                            <li><a href="blank-page.php">Secretariat</a></li>
+		                                            <li><a href="secretariat.php">Secretariat</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">
