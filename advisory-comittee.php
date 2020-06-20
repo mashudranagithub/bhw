@@ -3,7 +3,7 @@
 
 
 <section id="Page-banner">
-	<img src="assets/images/page-banners/Background.jpg" alt="Page Banner Image">
+	<img src="assets/images/page-banners/advisory-committee.jpg" alt="Page Banner Image">
 </section>
 
 
@@ -11,239 +11,112 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2>List of Working Group and Advisory Group Members</h2>
+				<h2>Advisory Committee Members of Bangladesh health watch</h2>
 			</div>
 		</div>
 	</div>
 </section>
 
 
-<section id="Working-group">
+<section id="Group">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
-				<h2>Working Group</h2>
-				<div class="owl-carousel working-group-slider">
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Dr. Jahiruddin  Ahmed</p>
 					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="container mt-4">
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<a href="javascript:void(0);" class="view-all">See All Members</a>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</section>
-
-
-<section id="Advisory-group">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h2>Advisory Group</h2>
-				<div class="owl-carousel advisory-group-slider">
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-					<div class="group-member">
-						<div class="group-member-image">
-							<img src="assets/images/who-we-are/advisory/member-1.jpg" alt="Group Member Image">
-							<p class="name">Dr. AMR Chowdhury (Convener)</p>
-						</div>
-						<div class="group-member-details d-flex justify-content-center align-items-center">
-							<div class="member-info">
-								<p class="name">Dr. AMR Chowdhury (Convener)</p>
-								<p class="designation">Advisor</p>
-								<p>James P Grant School of Public Health and Former Vice Chairperson, BRAC</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="container mt-4">
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<a href="javascript:void(0);" class="view-all">See All Members</a>
-						</div>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-<section id="Page-links">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4">
-				<div class="single-page-link">
-					<a href="who-we-are.php">
-						<img src="assets/images/who-we-are/who-we-are-link.jpg" alt="Page Link Image">
-						<h3>Who We Are</h3>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<div class="single-page-link">
-					<a href="#">
-						<img src="assets/images/who-we-are/who-we-are-link-2.jpg" alt="Page Link Image">
-						<h3>What We Do</h3>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Mr. Faruque Ahmed</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
 			</div>
-			<div class="col-md-4">
-				<div class="single-page-link">
-					<a href="#">
-						<img src="assets/images/who-we-are/who-we-are-link-report.jpg" alt="Page Link Image">
-						<h3>BHW Reports</h3>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Mr. Mahfuz Anam</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Ms. Maleka Banu</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Dr. Zafrullah Chowdhury</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">ProfJamilur Reza Chowdhury</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Professor Rounaq Jahan</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Dr. Naila Zaman Khan</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="group-member">
+					<div class="group-member-image">
+						<img src="assets/images/who-we-are/advisory/advisory-committee-member.jpg" alt="Group Member Image">
+						<p class="name">Dr. Hossain Zillur Rahman</p>
+					</div>
+					<a href="single-advisory-member.php" class="group-member-details-link">
+						<img src="assets/images/who-we-are/link-icon.png" alt="Single member link icon">
 					</a>
 				</div>
 			</div>

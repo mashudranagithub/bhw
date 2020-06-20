@@ -27,9 +27,9 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<a href="background.php">
+					<a href="who-we-are.php">
 						<img src="assets/images/who-we-are/who-we-are-link.jpg" alt="Page Link Image">
-						<h3>Background</h3>
+						<h3>Who We Are</h3>
 					</a>
 				</div>
 			</div>
@@ -37,7 +37,7 @@
 				<div class="single-page-link">
 					<a href="#">
 						<img src="assets/images/who-we-are/who-we-are-link-2.jpg" alt="Page Link Image">
-						<h3>Vision & Mission</h3>
+						<h3>What We Do</h3>
 					</a>
 				</div>
 			</div>

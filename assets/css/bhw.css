@@ -951,116 +951,62 @@ section#Promo-banner .bhw-paragraph p {
 
 
 
-/*Advisory Group Page Start Here*/
-
-
+/*Group Page/layout Start Here*/
 
 section#Page-heading h2 {
     margin: 0;
     line-height: 100px;
 }
 
-section#Working-group,
-section#Advisory-group {
+section#Group {
     padding: 60px 0;
 }
 
-section#Working-group{
+section#Group{
     background: #f0f0f0;
-}
-
-section#Working-group h2{
-    color: #105caa;
-}
-
-section#Advisory-group h2 {
-    color: #f79420;
-}
-
-section#Working-group h2,
-section#Advisory-group h2 {
-    margin-bottom: 30px;
 }
 
 .group-member {
     position: relative;
     cursor: pointer;
-}
-
-.group-member-details {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: inherit;
-    height: 100%;
-    text-align: center;
-    background: #105caa;
-    color: #fff;
-    padding: 0 25px;
-    opacity: 0;
-    transition: 0.5s;
-}
-
-#Working-group .group-member-details {
-    background: #105caa;
-}
-
-#Advisory-group .group-member-details {
-    background: #f79420;
-}
-
-.group-member:hover .group-member-details {
-    top: 0;
-    opacity: 1;
-}
-
-.group-member-details p {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 .group-member-image p {
-    padding: 5px 25px;
+    padding: 12px 5px;
     text-align: center;
     color: #fff;
 }
 
-#Working-group .group-member-image p {
+#Group .group-member-image p.name {
     background: #105caa;
 }
 
-#Advisory-group .group-member-image p {
-    background: #f79420;
+.group-member:hover .group-member-image p.name {
+    background: #f79420 !important;
 }
 
-.working-group-slider .owl-nav,
-.advisory-group-slider .owl-nav {
+a.group-member-details-link {
     position: absolute;
-    top: -60px;
-    right: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: all 0.5s;
 }
 
-.working-group-slider .owl-nav button span,
-.advisory-group-slider .owl-nav button span {
-    border: 1px solid #105caa !important;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    margin: 0 5px;
-    display: inline-block;
-    color: #105caa;
-    font-size: 30px;
-    line-height: 20px;
+a.group-member-details-link img {
+    max-width: 30%;
 }
 
-#Advisory-group a.view-all {
-    color: #f79420;
-    border: 1px solid #f79420;
+.group-member:hover a.group-member-details-link {
+    opacity: 1;
 }
 
-#Advisory-group a.view-all:hover {
-    color: #fff;
-    border: 1px solid #f79420;
-    background: #f79420;
-}
-
-/*Advisory Group Page End Here*/
+/*Group Page/layout End Here*/

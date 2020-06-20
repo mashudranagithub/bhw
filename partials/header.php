@@ -105,6 +105,7 @@
 		                                            <li><a href="blank-page.php">Regional Chapter</a></li>
 		                                            <li><a href="blank-page.php">Short Course</a></li>
 		                                            <li><a href="blank-page.php">Policy Advocacy</a></li>
+		                                            <li><a href="blank-page.php">Networking</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">

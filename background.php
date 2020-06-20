@@ -48,20 +48,26 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<img src="assets/images/who-we-are/who-we-are-link.jpg" alt="Page Link Image">
-					<h3>Who We Are</h3>
+					<a href="who-we-are.php">
+						<img src="assets/images/who-we-are/who-we-are-link.jpg" alt="Page Link Image">
+						<h3>Who We Are</h3>
+					</a>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<img src="assets/images/who-we-are/who-we-are-link-2.jpg" alt="Page Link Image">
-					<h3>What We Do</h3>
+					<a href="#">
+						<img src="assets/images/who-we-are/who-we-are-link-2.jpg" alt="Page Link Image">
+						<h3>What We Do</h3>
+					</a>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<img src="assets/images/who-we-are/who-we-are-link-report.jpg" alt="Page Link Image">
-					<h3>BHW Reports</h3>
+					<a href="#">
+						<img src="assets/images/who-we-are/who-we-are-link-report.jpg" alt="Page Link Image">
+						<h3>BHW Reports</h3>
+					</a>
 				</div>
 			</div>
 		</div>
