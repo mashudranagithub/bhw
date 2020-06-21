@@ -104,7 +104,7 @@
 		                                            <li><a href="blank-page.php">Publications</a></li>
 		                                            <li><a href="blank-page.php">Regional Chapter</a></li>
 		                                            <li><a href="blank-page.php">Short Course</a></li>
-		                                            <li><a href="blank-page.php">Policy Advocacy</a></li>
+		                                            <li><a href="policy-advocacy.php">Policy Advocacy</a></li>
 		                                            <li><a href="networking.php">Networking</a></li>
 		                                        </ul>
 		                                    </li>

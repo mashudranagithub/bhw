@@ -1161,3 +1161,20 @@ section#Networking h2 {
 }
 
 /*BHW Newworking Layout End here*/
+
+
+/*BHW Policy Advocacy Layout Start Here*/
+section#Policy-advocacy .row {
+    padding-bottom: 50px;
+}
+
+section#Policy-advocacy h2 {
+    color: #105caa;
+    margin-bottom: 20px;
+}
+
+section#Policy-advocacy h4 {
+    margin: 35px 0 15px;
+}
+
+/*BHW Policy Advocacy Layout End Here*/
