@@ -76,7 +76,7 @@
 					<div class="row d-flex align-items-center">
 						<div class="col-md-3">
 							<div class="logo">
-								<a href="/"><img src="assets/images/logo/logo.png" alt="BHW Logo Image"></a>
+								<a href="index.php"><img src="assets/images/logo/logo.png" alt="BHW Logo Image"></a>
 							</div>
 						</div>
 						<div class="col-md-9">
@@ -105,17 +105,14 @@
 		                                            <li><a href="blank-page.php">Regional Chapter</a></li>
 		                                            <li><a href="blank-page.php">Short Course</a></li>
 		                                            <li><a href="blank-page.php">Policy Advocacy</a></li>
-		                                            <li><a href="blank-page.php">Networking</a></li>
+		                                            <li><a href="networking.php">Networking</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">
 		                                        <a href="#">Reports</a>
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="bhw-bulletin.php">BHW Bulletin</a></li>
-		                                            <li><a href="blank-page.php">BHW Reports</a></li>
-		                                            <!-- <li><a href="blank-page.php">Dropdown Menu</a></li>
-		                                            <li><a href="blank-page.php">Dropdown Menu</a></li>
-		                                            <li><a href="blank-page.php">Dropdown Menu</a></li> -->
+		                                            <li><a href="bhw-report.php">BHW Reports</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <!-- <li class="first-drop-menu">

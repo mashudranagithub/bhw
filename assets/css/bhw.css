@@ -1109,9 +1109,55 @@ section#Bulletin {
     padding: 10px;
 }
 
+a.btn.btn-download.report:hover,
 .single-bulletin:hover a.btn-download {
     background: #f79420;
     color: #fff;
 }
 
 /*BHW Bulletin End Here*/
+
+
+
+
+/*BHW Report Start Here*/
+
+section#Report {
+    margin-bottom: 50px;
+}
+
+.bhw-single-report a, a.btn.btn-download.report {
+    background: #f0f0f0;
+    padding: 0 20px;
+    color: #191919;
+    font-size: 18px;
+    line-height: 50px;
+    margin-bottom: 8px;
+    display: block;
+    text-decoration: none;
+}
+
+.bhw-single-report a:hover {
+    background: #105caa;
+    color: #fff;
+}
+
+/*BHW Report End Here*/
+
+
+/*BHW Newworking Layout Start here*/
+
+section#Networking {
+    padding: 80px 0;
+}
+
+section#Networking h2 {
+    color: #105caa;
+    margin-bottom: 20px;
+}
+
+.bhw-text p {
+    margin-bottom: 15px;
+}
+
+/*BHW Newworking Layout End here*/
