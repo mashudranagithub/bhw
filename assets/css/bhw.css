@@ -1178,3 +1178,34 @@ section#Policy-advocacy h4 {
 }
 
 /*BHW Policy Advocacy Layout End Here*/
+
+
+
+
+
+/*What we do layout start here*/
+
+section#What-we-do {
+    padding: 50px 0;
+}
+
+section#What-we-do h2 {
+    color: #105cca;
+}
+
+#Middle-banner {
+    background: url('../images/what-we-do/What-we-do-promo.jpg');
+    background-size: cover;
+    min-height: 450px;
+}
+
+section#Middle-banner .bhw-paragraph p {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+section.info-section {
+    padding: 50px 0;
+}
+
+/*What we do layout end here*/

@@ -98,7 +98,7 @@
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">
-		                                        <a href="#">What we do</a>
+		                                        <a href="what-we-do.php">What we do</a>
 		                                        <ul class="first-dropped-menu">
 		                                            <li><a href="blank-page.php">Research</a></li>
 		                                            <li><a href="blank-page.php">Publications</a></li>
