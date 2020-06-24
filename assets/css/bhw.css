@@ -1243,3 +1243,41 @@ p.course-name a {
 }
 
 /*Short Courses layout end here*/
+
+
+
+
+/*Regions layout start here*/
+section#Regions {
+    padding: 50px 0;
+}
+
+section#Regions .section-heading h2 {
+    color: #105cca;
+    margin-bottom: 25px;
+}
+
+.single-region {
+    margin-bottom: 35px;
+}
+
+.single-region a {
+    display: block;
+    position: relative;
+}
+
+.single-region a h4.region-name {
+    position: absolute;
+    bottom: 5px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+.single-region:hover a h4.region-name {
+    color: #105cca;
+}
+/*Regions layout end here*/
