@@ -1209,3 +1209,37 @@ section.info-section {
 }
 
 /*What we do layout end here*/
+
+
+
+/*Short Courses layout start here*/
+
+section#Courses {
+    padding-top: 50px;
+}
+
+section#Courses h2 {
+    margin-bottom: 30px;
+}
+
+p.course-name {
+    background: #105cca;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p.course-name a {
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 5px 45px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.single-course:hover p.course-name {
+    background: #f79420;
+}
+
+/*Short Courses layout end here*/
