@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="section-heading">
-					<h2>Bangladesh Health Watch (BHW) Photo Gallery</h2>
+					<h2>Bangladesh Health Watch (BHW) - <span>Photo Gallery</span></h2>
 				</div>
 			</div>
 		</div>

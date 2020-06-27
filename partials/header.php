@@ -106,6 +106,8 @@
 		                                            <li><a href="short-courses.php">Short Course</a></li>
 		                                            <li><a href="policy-advocacy.php">Policy Advocacy</a></li>
 		                                            <li><a href="networking.php">Networking</a></li>
+		                                            <li><a href="blank-page.php">Stratigic Plan</a></li>
+		                                            <li><a href="blank-page.php">Our Projects</a></li>
 		                                        </ul>
 		                                    </li>
 		                                    <li class="first-drop-menu">
@@ -144,10 +146,13 @@
 		                                        <a href="photo-gallery.php">Photo gallery</a>
 		                                    </li>
 		                                    <li>
-		                                        <a href="#">Blog</a>
+		                                        <a href="blog.php">Blogs</a>
 		                                    </li>
 		                                    <li>
-		                                        <a href="#">Contact</a>
+		                                        <a href="events.php">Events</a>
+		                                    </li>
+		                                    <li>
+		                                        <a href="contact.php">Contact</a>
 		                                    </li>
 		                                </ul>
 		                            </div>
