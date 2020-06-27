@@ -1,4 +1,4 @@
-font-family: 'Bebas Neue', cursive;
+/*font-family: 'Bebas Neue', cursive;
 font-family: 'Roboto', sans-serif;*/
 
 * {
@@ -121,6 +121,10 @@ a.know-more::after {
     top: 0;
     right: -10px;
     font-family: fontAwesome;
+}
+
+.bhw-pagination {
+    padding: 30px 0px;
 }
 
 
@@ -301,7 +305,7 @@ ul.first-dropped-menu.last-dropdown {
 
 
 
-.search input {
+.main-menu .search input {
     display: none;
 }
 
@@ -1281,3 +1285,97 @@ section#Regions .section-heading h2 {
     color: #105cca;
 }
 /*Regions layout end here*/
+
+
+
+
+/*Research Layout Start Here*/
+section#Research {
+    padding: 50px;
+}
+
+section#Research h2 {
+    color: #105cca;
+    margin-bottom: 25px;
+}
+
+.research-search a.submit {
+    background: #f79420;
+    line-height: 50px;
+    display: inline-block;
+    padding: 0 26px;
+    font-size: 1.2rem;
+    color: #fff;
+    text-transform: uppercase;
+    max-width: 25%;
+}
+
+.research-search input {
+    background: #e8e8e8;
+    border: none;
+    line-height: 50px;
+    padding: 0px 15px;
+    margin: 0;
+    min-width: 70%;
+    box-shadow: none;
+    outline: none;
+}
+
+.research-search {
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: flex-end;
+}
+
+.single-research {
+    margin-bottom: 30px;
+}
+
+.research-info {
+    background: #e8e8e8;
+    padding: 10px 15px;
+}
+
+.research-info h4 a {
+    color: #191919;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+}
+
+.research-info p.published-date {
+    color: #105cca;
+    font-weight: 700;
+}
+
+.single-research:hover .research-info {
+    background: #f79420;
+}
+
+.single-research:hover .research-info h4 a,
+.single-research:hover .research-info p.published-date {
+    color: #fff;
+}
+/*Research Layout End Here*/
+
+
+
+/*Photo Gallery Layout Start Here*/
+section#Photo-gallery {
+    padding: 50px 0;
+}
+
+section#Photo-gallery h2 {
+    margin-bottom: 30px;
+}
+
+.gallery-item {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.gallery-item a img {
+    height: 260px;
+    min-width: 100%;
+    max-width: max-content;
+}
+/*Photo Gallery Layout End Here*/

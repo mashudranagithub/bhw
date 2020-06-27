@@ -141,7 +141,7 @@
 		                                        </ul>
 		                                    </li> -->
 		                                    <li>
-		                                        <a href="#">Photo gallery</a>
+		                                        <a href="photo-gallery.php">Photo gallery</a>
 		                                    </li>
 		                                    <li>
 		                                        <a href="#">Blog</a>
