@@ -126,5 +126,34 @@ var gallery = $('.gallery a').simpleLightbox({
 
 
 
+
+    $('.region-slider').owlCarousel({
+        merge:true,
+        loop:true,
+        autoplay:true,
+        autoplaySpeed:2000,
+        autoplayTimeout:10000,
+        smartSpeed:500,
+        margin:30,
+        nav:true,
+        navDots:false,
+        lazyLoad:true,
+        center:false,
+        responsive:{
+            480:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:4
+            }
+        }
+    });
+
+
+
+
 	
 });

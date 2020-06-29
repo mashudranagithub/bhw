@@ -1470,3 +1470,52 @@ section#Contact-address h2 {
 }
 
 /*Contact Layout End Here*/
+
+
+
+/*Single Region Layout Start Here*/
+
+.regions-all-content {
+    padding: 25px 0 50px;
+}
+
+.region-slider {
+    position: relative;
+}
+
+.region-slider .single-region {
+    margin-bottom: 0px;
+}
+
+.region-slider .owl-dots {
+    display: none;
+}
+
+.region-slider .owl-nav button span {
+    position: absolute;
+    top: 0%;
+    transform: translateY(-50%);
+    background: #105caa !important;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    color: #fff !important;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.region-slider .owl-nav button {
+    position: absolute;
+    top: 50%;
+}
+
+.region-slider .owl-nav button.owl-prev {
+    left: -40px;
+}
+
+.region-slider .owl-nav button.owl-next {
+    right: -20px;
+}
+/*Single Region Layout End Here*/
