@@ -56,7 +56,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<a href="#">
+					<a href="what-we-do.php">
 						<img src="assets/images/who-we-are/who-we-are-link-2.jpg" alt="Page Link Image">
 						<h3>What We Do</h3>
 					</a>
@@ -64,7 +64,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="single-page-link">
-					<a href="#">
+					<a href="bhw-report.php">
 						<img src="assets/images/who-we-are/who-we-are-link-report.jpg" alt="Page Link Image">
 						<h3>BHW Reports</h3>
 					</a>

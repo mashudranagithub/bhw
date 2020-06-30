@@ -1475,6 +1475,10 @@ section#Contact-address h2 {
 
 /*Single Region Layout Start Here*/
 
+section#Single-region {
+    padding: 50px 0;
+}
+
 .regions-all-content {
     padding: 25px 0 50px;
 }
@@ -1518,4 +1522,64 @@ section#Contact-address h2 {
 .region-slider .owl-nav button.owl-next {
     right: -20px;
 }
+
+.regions-all-content .nav-pills .nav-link.active,
+.regions-all-content .nav-pills .show>.nav-link {
+    background: #f79420;
+    color: #fff;
+}
+
+.regions-all-content .nav-pills .nav-link {
+    background: #efefef;
+    color: #717171;
+    letter-spacing: 1px;
+    border-right: 1px solid #ddd;
+}
+
+.regions-all-content .nav-pills .nav-link h4 {
+    margin: 0;
+    line-height: 40px;
+}
+
+.region-content {
+    background: #efefef;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.region-content h4 {
+    border-bottom: 2px solid #f79420;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 5px 20px 17px;
+    font-size: 1.5rem;
+    letter-spacing: 0.5px;
+}
+
+.region-content ol {
+    margin-left: 20px;
+}
+
+.region-content ol li {
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.region-content.institution {
+    width: 100%;
+    border-right:1px solid #ddd;
+}
+
 /*Single Region Layout End Here*/
+
+
+
+/*Our Projects layout Start Here*/
+section#Projects .section-heading h2 {
+    margin-bottom: 30px;
+}
+
+section#Projects .single-work.full-box {
+    margin-bottom: 30px;
+}
+/*Our Projects layout End Here*/

@@ -53,9 +53,9 @@
 			        <span class="sr-only">Next</span>
 			    </a>
 			</div>
-			<a href="#Intro" class="next-section-btn">
+			<!-- <a href="#Intro" class="next-section-btn">
 				<i class="fa fa-chevron-down"></i>
-			</a>
+			</a> -->
 		</section>
 		<!-- Slider section end here -->
 
@@ -157,7 +157,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a href="javascript:void(0);" class="view-all">All works</a>
+						<a href="projects.php" class="view-all">All works</a>
 					</div>
 				</div>
 			</div>
@@ -176,8 +176,8 @@
 						<div class="col-md-5">
 							<div class="section-heading">
 								<h2>Bangladesh Health Watch (BHW)</h2>
-								<a href="javascript:void(0);" class="btn btn-bhw btn-link">Bulletin</a>
-								<a href="javascript:void(0);" class="btn btn-bhw btn-link">Report</a>
+								<a href="bhw-bulletin.php" class="btn btn-bhw btn-link">Bulletin</a>
+								<a href="bhw-report.php" class="btn btn-bhw btn-link">Report</a>
 							</div>
 						</div>
 					</div>
@@ -264,7 +264,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a href="javascript:void(0);" class="view-all">All Events</a>
+						<a href="events.php" class="view-all">All Events</a>
 					</div>
 				</div>
 			</div>
@@ -355,7 +355,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<a href="javascript:void(0);" class="view-all">View All</a>
+						<a href="blog.php" class="view-all">View All</a>
 					</div>
 				</div>
 			</div>
